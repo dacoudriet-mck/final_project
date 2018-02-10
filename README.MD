@@ -1,6 +1,6 @@
 Final Project Contents <br>
-AzureSiteRecovery_for_migrations_Final_Project_DavidCoudriet.docx <br>
-AzureSiteRecovery_for_migrations_Final_Project_Report_DavidCoudriet.docx <br>
+AzureSiteRecovery_for_migrations_Final_Project_DavidCoudriet.docx and PDF <br>
+AzureSiteRecovery_for_migrations_Final_Project_Report_DavidCoudriet.docx  and PDF<br>
 AzureSiteRecovery_for_migrations_Final_Presentation_DavidCoudriet.pptx <br>
 AzureSiteRecovery_for_migrations_storage_account_DavidCoudriet.json <br>
 AzureSiteRecovery_for_migrations_vnet_DavidCoudriet.json <br>
