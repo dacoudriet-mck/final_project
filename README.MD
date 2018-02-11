@@ -7,8 +7,6 @@ AzureSiteRecovery_for_migrations_vnet_DavidCoudriet.json <br>
 Sync_inprogress.png <br>
 user_list.png <br>
 VaultRegistration.png <br>
-2 minute video <br>
-15 minute video <br>
 <br>
 2 Minute video URL: https://youtu.be/Aax2aDeOCS8  <br>
 15 Minute video URL: https://youtu.be/lmrq8edwxv4 <br>
